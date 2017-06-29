@@ -9,5 +9,5 @@ Test de fonctionnement de github
 * li 
 
 ~~~php
-echo 'Coucou';
-php~~~
+echo 'Coucou';?>
+~~
