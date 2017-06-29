@@ -8,7 +8,7 @@ Test de fonctionnement de github
 * li
 * li 
 
-~~~<?php
-echo 'Coucou';?>  
+~~~php
+<?php echo 'Coucou';?>  
 ~~~
 
