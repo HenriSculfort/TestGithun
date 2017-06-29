@@ -8,3 +8,6 @@ Test de fonctionnement de github
 * li
 * li 
 
+~~~php
+echo 'Coucou';
+?~~~
